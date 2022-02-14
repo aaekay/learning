@@ -35,3 +35,18 @@ shouldn't use the standard exome sequencing techniques
 4. repeat expansions diseases
 5. mitochondrial mutations
 6. cant identify whether the mutation came from which parent when uniparent dsomy is there.
+
+
+variants 
+1. finding variants
+2. understanding variations
+  1. synonymous
+  2. non synonymous: not all are deleterious, two computational approaches. SIFT and PolyPhen2
+3. anntoating the genes wrt disease
+  1. exomiser
+  2. phenix
+4. prioritising variations
+5. validations 
+  1. known variant and implication: sanger sequencing approach is used
+  2. new variant in a known gene
+  3. new gene and variant

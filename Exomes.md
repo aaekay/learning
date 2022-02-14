@@ -50,4 +50,4 @@ variants
 5. validations 
     1. known variant and implication: sanger sequencing approach is used
     2. new variant in a known gene
-    3. new gene and variant
+    3. new gene and variant: functional validation is required, realm of research, cell culture systems, model organisms

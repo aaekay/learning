@@ -2,10 +2,11 @@ exome sequencing
 
 #### approaches
 there are three approaches
-| ------ | ------ | ------ |
-|first| second | third |
-| amplify specific region by pcr | capture specific region of DNA on beads or glass surfaces | 
-| fail in large targets
+
+| first | second | third |
+| ------ | ------ | ---- | 
+| amplify specific region by pcr | capture specific region of DNA on beads or glass surfaces |  |
+| fail in large targets | | |
 
 
 limitations
@@ -40,13 +41,13 @@ shouldn't use the standard exome sequencing techniques
 variants 
 1. finding variants
 2. understanding variations
-  1. synonymous
-  2. non synonymous: not all are deleterious, two computational approaches. SIFT and PolyPhen2
+    1. synonymous
+    2. non synonymous: not all are deleterious, two computational approaches. SIFT and PolyPhen2
 3. anntoating the genes wrt disease
-  1. exomiser
-  2. phenix
+    1. exomiser
+    2. phenix
 4. prioritising variations
 5. validations 
-  1. known variant and implication: sanger sequencing approach is used
-  2. new variant in a known gene
-  3. new gene and variant
+    1. known variant and implication: sanger sequencing approach is used
+    2. new variant in a known gene
+    3. new gene and variant

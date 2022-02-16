@@ -1,9 +1,8 @@
 ### Topics
 
-|----------|---------|
 |topics | link|
 |--------|--------|
-|Inter rater reliability| [link](/kappa.ipynb) |
-| Non parametric tests | [link](/non_parametric.ipynb) |
+|Inter rater reliability| [link](/stats/kappa.ipynb) |
+| Non parametric tests | [link](/stats/non_parametric.ipynb) |
 
 
